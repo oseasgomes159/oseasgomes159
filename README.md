@@ -1,4 +1,5 @@
-<h1>Olá, eu sou o Oséias Gomes, Bem vindo ao meu perfil! ❤</h1>
+<h1>Olá, eu sou o Oséias
+  Bem vindo ao meu perfil! ❤</h1>
 
 - 🔭 Estudante Front-end.
 - 🌱 Cursando Análise e desenvolvimento de sistemas.
@@ -21,7 +22,6 @@
   <img align="center" alt="Oseias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oseias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oseias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Oseias-pic" height="150" style="border-radius:50px;" 
 </div>
 
 ##
